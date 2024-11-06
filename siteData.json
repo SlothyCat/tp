@@ -114,15 +114,16 @@
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
+        "filtering-persons-by-contact-type-filter": "Filtering persons by contact type: filter",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
-        "switching-interface-theme-switch": "Switching Interface Theme : switch",
+        "switching-display-theme-switch": "Switching display theme: switch",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command Summary"
       },
       "headingKeywords": {}
     },
