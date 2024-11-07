@@ -218,7 +218,7 @@ with(this){return _c('h3',{attrs:{"id":"user-stories"}},[_v("User stories"),_c('
 with(this){return _c('p',[_v("Priorities: High (must have) - "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")]),_v(", Medium (nice to have) - "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")]),_v(", Low (unlikely to have) - "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("*")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Priority")]),_v(" "),_c('th',[_v("As a …​")]),_v(" "),_c('th',[_v("I want to …​")]),_v(" "),_c('th',[_v("So that I can…​")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("new user")]),_v(" "),_c('td',[_v("easily access usage instructions")]),_v(" "),_c('td',[_v("refer to instructions when I forget how to use the App")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("add new contacts with their details (eg. name, phone number, email, telegram handle)")]),_v(" "),_c('td',[_v("keep track of my contacts in the app")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("delete a contact")]),_v(" "),_c('td',[_v("remove entries that I no longer need")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("find a person by name or telegram handle")]),_v(" "),_c('td',[_v("locate details of persons without having to go through the entire list")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("edit contact details (e.g. phone number, email)")]),_v(" "),_c('td',[_v("so that I can keep the information up to date")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("add a new contact with multiple tags (e.g., CCA, classmate)")]),_v(" "),_c('td',[_v("categorise them based on different associations")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("categorise contacts into different contact types (eg. work, personal)")]),_v(" "),_c('td',[_v("organise people according to my needs")])]),_v(" "),_c('tr',[_c('td',[_v("'* *'.")]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("be able to filter my contacts based off different contact types")]),_v(" "),_c('td',[_v("find my contacts faster")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("tag contacts with multiple categories")]),_v(" "),_c('td',[_v("find them easily in different contexts")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("*")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("receive reminders to reach out to contacts I haven’t communicated with in a while")]),_v(" "),_c('td',[_v("maintain my connections")])])])])])}
+with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Priority")]),_v(" "),_c('th',[_v("As a …​")]),_v(" "),_c('th',[_v("I want to …​")]),_v(" "),_c('th',[_v("So that I can…​")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("new user")]),_v(" "),_c('td',[_v("easily access usage instructions")]),_v(" "),_c('td',[_v("refer to instructions when I forget how to use the App")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("add new contacts with their details (eg. name, phone number, email, telegram handle)")]),_v(" "),_c('td',[_v("keep track of my contacts in the app")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("delete a contact")]),_v(" "),_c('td',[_v("remove entries that I no longer need")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("find a person by name or telegram handle")]),_v(" "),_c('td',[_v("locate details of persons without having to go through the entire list")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* * *")])]),_v(" "),_c('td',[_v("user")]),_v(" "),_c('td',[_v("edit contact details (e.g. phone number, email)")]),_v(" "),_c('td',[_v("so that I can keep the information up to date")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("add a new contact with multiple tags (e.g., CCA, classmate)")]),_v(" "),_c('td',[_v("categorise them based on different associations")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("categorise contacts into different contact types (eg. work, personal)")]),_v(" "),_c('td',[_v("organise people according to my needs")])]),_v(" "),_c('tr',[_c('td',[_v("'* *'.")]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("be able to filter my contacts based off different contact types")]),_v(" "),_c('td',[_v("find my contacts faster")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("tag contacts with multiple categories")]),_v(" "),_c('td',[_v("find them easily in different contexts")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("* *")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("import contacts from csv files")]),_v(" "),_c('td',[_v("quickly add a large number of contacts without entering them manually")])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("*")])]),_v(" "),_c('td',[_v("student")]),_v(" "),_c('td',[_v("receive reminders to reach out to contacts I haven’t communicated with in a while")]),_v(" "),_c('td',[_v("maintain my connections")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"use-cases"}},[_v("Use cases"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#use-cases","onclick":"event.stopPropagation()"}})])}
@@ -233,13 +233,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: UC001 - Add a new contact")
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to add a new contact")])]),_v(" "),_c('li',[_c('p',[_v("User enters the required contact details")])]),_v(" "),_c('li',[_c('p',[_v("UniLink adds the new contact")])]),_v(" "),_c('li',[_c('p',[_v("UniLink displays the updated contact list")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to add a new contact")])]),_v(" "),_c('li',[_c('p',[_v("User enters the required contact details:")]),_v(" "),_c('ul',[_c('li',[_v("Name "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("n/NAME")])]),_v(" "),_c('li',[_v("Contact type "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ct/CONTACT_TYPE")]),_v(" - e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("WORK")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("SCHOOL")]),_v(", or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PERSONAL")])]),_v(" "),_c('li',[_v("At least one of:\n"),_c('ul',[_c('li',[_v("Telegram handle "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("h/TELEGRAM_HANDLE")])]),_v(" "),_c('li',[_v("Phone number "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("p/PHONE")])]),_v(" "),_c('li',[_v("Email address "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("e/EMAIL")])])])]),_v(" "),_c('li',[_v("Optional fields:\n"),_c('ul',[_c('li',[_v("Module "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("m/MODULE_NAME")])]),_v(" "),_c('li',[_v("Remark "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("r/REMARK")])]),_v(" "),_c('li',[_v("Tags "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("t/TAG")]),_v(", such as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("classmate")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("friend")])])])])])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniLink")]),_v(" validates the entered details")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniLink")]),_v(" adds the new contact")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniLink")]),_v(" displays the updated contact list")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The entered data is invalid")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. UniLink shows an error message")])]),_v(" "),_c('li',[_c('p',[_v("2a2. User enters new data")]),_v(" "),_c('p',[_v("Steps 2a1-2a2 are repeated until the data entered is correct.")]),_v(" "),_c('p',[_v("Use case resumes from step 3.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. User enters a duplicate contact.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. UniLink shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The entered data is invalid")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. UniLink shows an error message indicating fields that could be incorrect (e.g., invalid email).")])]),_v(" "),_c('li',[_c('p',[_v("2a2. User re-enters the correct data")]),_v(" "),_c('p',[_v("Steps 2a1-2a2 are repeated until the data entered is correct.")]),_v(" "),_c('p',[_v("Use case resumes from step 3.")])])])]),_v(" "),_c('li',[_c('p',[_v("2b. User enters a duplicate contact.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2b1. UniLink shows an error message indicating the contact already exists.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC002 - Delete a person")])])}
@@ -248,13 +248,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: UC002 - Delete a person")])
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("UniLink deletes the person")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to delete a specific person in the list by providing the person's index")])]),_v(" "),_c('li',[_c('p',[_v("UniLink deletes the specified person from the list and displays a confirmation message")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. UniLink shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. UniLink shows an error message indicating the index is invalid.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC003 - Edit a contact")])])}
@@ -263,13 +263,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: UC003 - Edit a contact")])]
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to edit a specific person in the list")])]),_v(" "),_c('li',[_c('p',[_v("User enters the new details to be updated")])]),_v(" "),_c('li',[_c('p',[_v("UniLink updates the contact")])]),_v(" "),_c('li',[_c('p',[_v("UniLink displays the updated contact list")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows a list of persons")])]),_v(" "),_c('li',[_c('p',[_v("User requests to edit a specific person in the list by providing the person’s index")])]),_v(" "),_c('li',[_c('p',[_v("User enters the new details for the contact to be updated")])]),_v(" "),_c('li',[_c('p',[_v("UniLink updates the contact")])]),_v(" "),_c('li',[_c('p',[_v("UniLink displays the updated contact list with a confirmation message")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. UniLink shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("4a. The entered data is invalid")]),_v(" "),_c('ul',[_c('li',[_v("4a1. UniLink shows an error message")]),_v(" "),_c('li',[_v("4a2. User enters new data")])]),_v(" "),_c('p',[_v("Steps 4a1-4a2 are repeated until the data entered is correct.")]),_v(" "),_c('p',[_v("Use case resumes from step 5.")])]),_v(" "),_c('li',[_c('p',[_v("4b. The edited contact results in a duplicate")]),_v(" "),_c('ul',[_c('li',[_v("4b1. UniLink shows an error message\nUse case ends.")])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. UniLink shows an error message indicating the index is invalid.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("4a. The entered data is invalid (e.g., incorrect format or missing required fields)")]),_v(" "),_c('ul',[_c('li',[_v("4a1. UniLink shows an error message")]),_v(" "),_c('li',[_v("4a2. User re-enters the new data")])]),_v(" "),_c('p',[_v("Steps 4a1-4a2 are repeated until the data entered is correct.")]),_v(" "),_c('p',[_v("Use case resumes from step 5.")])]),_v(" "),_c('li',[_c('p',[_v("4b. The edited contact results in a duplicate")]),_v(" "),_c('ul',[_c('li',[_v("4b1. UniLink shows an error message indicating that a duplicate contact already exists\nUse case ends.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC004 - View contact list")])])}
@@ -278,7 +278,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case: UC004 - View contact list")
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list persons")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows a list of persons")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to view the list of persons")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniLink")]),_v(" shows the full list of persons with basic contact details.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -293,13 +293,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: UC005 - Switch Theme")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to switch theme")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows switched theme")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to switch theme")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniLink")]),_v(" changes the theme to the specified option (e.g., light or dark mode)")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The given theme is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. UniLink shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The given theme is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. UniLink shows an error message indicating that the theme is invalid.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC006 - Find contacts by name")])])}
@@ -308,13 +308,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: UC006 - Find contacts by na
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to find contacts by name")])]),_v(" "),_c('li',[_c('p',[_v("User enters keyword of a specific name")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows a list of persons with names containing the keyword")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to find contacts by name")])]),_v(" "),_c('li',[_c('p',[_v("User enters a keyword representing part or all of a contact’s name")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniLink")]),_v(" shows a list of persons with names containing the keyword")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The entered data is invalid")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. UniLink shows an error message")])]),_v(" "),_c('li',[_c('p',[_v("2a2. User enters new data")]),_v(" "),_c('p',[_v("Steps 2a1-2a2 are repeated until the data entered is correct.")]),_v(" "),_c('p',[_v("Use case resumes from step 3.")])])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The entered data is invalid (e.g., blank keyword)")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. UniLink shows an error message")])]),_v(" "),_c('li',[_c('p',[_v("2a2. User re-enters a valid keyword")]),_v(" "),_c('p',[_v("Steps 2a1-2a2 are repeated until the data entered is correct.")]),_v(" "),_c('p',[_v("Use case resumes from step 3.")])])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: UC007 - Filter contacts by contact type")])])}
@@ -323,13 +323,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: UC007 - Filter contacts by 
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to filter contacts by contact type")])]),_v(" "),_c('li',[_c('p',[_v("User enters the contact type to be filtered")])]),_v(" "),_c('li',[_c('p',[_v("UniLink shows a list of persons with the contact type")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to filter contacts by contact type")])]),_v(" "),_c('li',[_c('p',[_v("User specifies the contact type they want to filter by (e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("WORK")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("SCHOOL")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PERSONAL")]),_v(")")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniLink")]),_v(" shows a list of contacts that match the specified contact type")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("3a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The specified contact type is invalid (e.g., a type that does not exist)")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. UniLink shows an error message indicating the contact type is invalid")]),_v(" "),_c('p',[_v("Use case resumes from step 1.")])])])]),_v(" "),_c('li',[_c('p',[_v("3a. No contacts match the specified contact type")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"non-functional-requirements"}},[_v("Non-Functional Requirements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#non-functional-requirements","onclick":"event.stopPropagation()"}})])}
@@ -368,6 +368,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 10:02:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 19:56:21 GMT+8]")])])])}
 }];
   
