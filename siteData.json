@@ -61,8 +61,14 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-person": "Adding a person",
+        "editing-a-person-s-contact-details": "Editing a person's contact details",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-effort": "Appendix: Effort",
+        "difficulty-level-and-challenges": "Difficulty Level and Challenges",
+        "effort": "Effort",
+        "achievement": "Achievement"
       },
       "headingKeywords": {}
     },
