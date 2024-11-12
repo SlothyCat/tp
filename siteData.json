@@ -52,6 +52,7 @@
         "implementation": "Implementation",
         "add-feature": "Add feature",
         "switch-theme-feature": "Switch Theme feature",
+        "import-feature": "Import feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -68,7 +69,8 @@
         "appendix-effort": "Appendix: Effort",
         "difficulty-level-and-challenges": "Difficulty Level and Challenges",
         "effort": "Effort",
-        "achievement": "Achievement"
+        "achievement": "Achievement",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -113,7 +115,6 @@
       "title": "User Guide",
       "headings": {
         "unilink-user-guide": "UniLink User Guide",
-        "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -121,7 +122,7 @@
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "finding-persons-by-name-find": "Finding persons by name : find",
-        "finding-persons-by-telegram-handle-findtele": "Finding persons by telegram handle : findtele",
+        "finding-persons-by-telegram-handle-findtele": "Finding persons by Telegram Handle : findtele",
         "finding-persons-by-tags-findtag": "Finding persons by tags : findtag",
         "filtering-persons-by-contact-type-filter": "Filtering persons by contact type : filter",
         "deleting-a-person-delete": "Deleting a person : delete",
@@ -131,6 +132,8 @@
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
+        "preparing-a-csv-file": "Preparing a .csv file",
+        "constraints": "Constraints",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command Summary",
